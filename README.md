@@ -1,12 +1,28 @@
 # DocumentHandler
 
-Open a document (e.g. PDF) with a corresponding native app. 
+Open a document (e.g. PDF) with a corresponding native app.
 
 Since ``Application.OpenURL(...path)`` is not working (anymore?) to open local files on iOS, I searched the internet (see credits) for another solution. I found usable code and want to make it more accessible.
 
+## How to install
+
+Just add the package in the Package via git:  
+
+```
+https://github.com/Draudastic26/document-handler.git#upm
+```
+
 ## Usage
 
-Just call ``DocumentHandler.OpenDocument(...somePath);``
+Just call:  
+
+```csharp
+DocumentHandler.OpenDocument(...somePath);
+```
+
+## Contribution
+
+Feel free to create a pull request!
 
 ## Credits
 
