@@ -1,3 +1,3 @@
 # DocumentHandler
 
-Open a document with a corresponfing native app.
+Open a document with a corresponding native app.

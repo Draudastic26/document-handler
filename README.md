@@ -1,6 +1,6 @@
 # DocumentHandler
 
-Open a document (e.g. PDF) with a corresponfing native app. 
+Open a document (e.g. PDF) with a corresponding native app. 
 
 Since ``Application.OpenURL(...path)`` is not working (anymore?) to open local files on iOS, I searched the internet (see credits) for another solution. I found usable code and want to make it more accessible.
 
