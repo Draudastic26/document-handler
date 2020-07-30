@@ -1,7 +1,7 @@
 {
     "name": "com.drstc.documenthandler",
     "displayName": "DocumentHandler",
-    "version": "0.1",
+    "version": "0.1.0",
     "unity": "2019.4",
     "description": "Open a document (e.g. .pfd) with a corresponding native app.",
     "author": {
